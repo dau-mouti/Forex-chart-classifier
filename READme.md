@@ -22,3 +22,24 @@ This project uses a Convolutional Neural Network (EfficientNet) to classify cand
 https://702fa5f169d1637742.gradio.live
 
 contact developer/me for the dataset. 
+
+### Model File (.h5)
+
+Due to GitHub's 100MB file size limit, the trained model file is hosted externally:
+
+🔗 [Download Trained Model (.h5)](https://drive.google.com/file/d/1XGMSDiAeas65lmKnIDA_4lM2QKViS9up/view?usp=drive_link)
+
+---
+
+###  How to Use
+
+1. Upload a Forex chart image (with moving averages).
+2. Run `predict.py` to get a Buy/Sell prediction and confidence score.
+
+---
+
+### Key Technologies
+
+- Python
+- TensorFlow/Keras
+- ResNet50 (Transfer Learning)
