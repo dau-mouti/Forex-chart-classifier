@@ -20,3 +20,5 @@ This project uses a Convolutional Neural Network (EfficientNet) to classify cand
 
 ##  Demo
 https://702fa5f169d1637742.gradio.live
+
+contact developer/me for the dataset. 
